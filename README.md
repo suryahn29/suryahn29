@@ -9,9 +9,9 @@
 ###
 - 🔭 I’m currently working on **Frontend projects**
   
-- 🌱 I’m currently learning **Java DSA, nodejs(expressjs)**
+- 🌱 I’m currently learning **Java DSA, Fastapi**
 
-- 💬 Ask me about **Java,Javascript,React,Python**  
+- 💬 Ask me about **Java,Javascript,React.js,Python**  
 
 - 📫 How to reach me **hnsurya29@gmail.com**
 
@@ -40,6 +40,10 @@
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
